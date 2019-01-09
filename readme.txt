@@ -14,3 +14,4 @@ Creating a new branch is quick &&& simple!
 ======= FEATURE
 Creating a new branch is quick AnD simple!
 >>>>>>> feature
+Google Play AND Alipay;
