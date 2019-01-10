@@ -11,7 +11,7 @@ Opposition demonstrators in Hungary are due to resume protest shortly against
 the policies of the far-right government of Viktor Orban.
 <<<<<<< HEAD
 Creating a new branch is quick &&& simple!
-======= FEATURE
+FEATURE
 Creating a new branch is quick AnD simple!
 >>>>>>> feature
 Google Play AND Alipay;
